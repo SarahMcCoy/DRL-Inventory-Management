@@ -1,6 +1,9 @@
 # Optimizing Inventory: Stockout Mitigation Using Deep Reinforcement Learning
 ## Group 4: Sarah McCoy, Chandrika Jilla, Sai Kaushik Kollepalli, Vishnu Sankar, Aishwarya Shrestha
 
+# Welcome to Our Project Repository!
+Explore our research and dive into our codebase. Feel free to browse around, and don’t hesitate to reach out if you have any questions or need more information!
+
 # Project Overview: 
 Due to shipping delays and stockouts, inventory management inefficiency leads to profit loss, missed sales opportunities, and reduced customer satisfaction. Having the right amount of inventory is critical to improving business operations. DataCo Global, a multinational company distributing clothes, sports equipment, and electrical supplies, provides an example of how data can solve stockout issues.
 
