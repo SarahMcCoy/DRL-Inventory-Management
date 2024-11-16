@@ -18,10 +18,10 @@ Our capstone project focuses on optimizing inventory efficiency. Our goal is to 
 
 # Research Questions:
 Q1) What associations can be made to increase profits or reduce costs?
-Q2) Forecasting inventory demand to reduce stockout. 
-Q3) Prediction of shipping duration based on different variables 
 
-# Analysis:
+Q2) Forecasting inventory demand to reduce stockout. 
+
+Q3) Prediction of shipping duration based on different variables 
 
 # Conclusion: 
 
