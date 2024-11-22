@@ -23,7 +23,5 @@ Q2) Forecasting inventory demand to reduce stockout.
 
 Q3) Prediction of shipping duration based on different variables 
 
-# Conclusion: 
 
-Our analysis integrates clustering, reinforcement learning, and predictive modeling to enhance stockout mitigation strategies. Clustering with K-Means (3 clusters) reveals patterns between sales per customer and shipping days, highlighting high-risk groups. The Deep Q-Network (DQN) achieved a test total reward of 103,036, learning optimal restocking actions under dynamic conditions. Additionally, the Random Forest model, with an accuracy of 80%, predicts stockout risks by analyzing shipping days, sales, and delivery risk. These insights provide actionable steps to reduce stockouts, align inventory with demand, and improve profitability in inventory management.
 
