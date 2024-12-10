@@ -17,11 +17,12 @@ Organizations like Amazon have addressed these problems by successfully implemen
 Our capstone project focuses on optimizing inventory efficiency. Our goal is to mitigate stockouts, and we will do this by using the data of the company DataCo. We will also use advanced statistical concepts like Deep Reinforcement Learning to tackle this problem.
 
 # Research Questions:
-Q1) What associations can be made to increase profits or reduce costs?
 
-Q2) Forecasting inventory demand to reduce stockout. 
+Q1)How can improved forecasting techniques reduce stockouts in inventory management? 
 
-Q3) Prediction of shipping duration based on different variables 
+Q2) What are the key factors that influence benefit (profit)? 
+
+Q3) How can we predict if a product from a specific department will be delivered on time? 
 
 
 
