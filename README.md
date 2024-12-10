@@ -18,7 +18,7 @@ Our capstone project focuses on optimizing inventory efficiency. Our goal is to 
 
 # Research Questions:
 
-Q1)How can improved forecasting techniques reduce stockouts in inventory management? 
+Q1) How can improved forecasting techniques reduce stockouts in inventory management? 
 
 Q2) What are the key factors that influence benefit (profit)? 
 
