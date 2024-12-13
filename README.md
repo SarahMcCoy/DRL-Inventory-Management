@@ -24,5 +24,5 @@ Q2) What are the key factors that influence benefit (profit)?
 
 Q3) How can we predict if a product from a specific department will be delivered on time? 
 
-
-
+# Conclusion 
+Through the models we developed, we identified effective strategies to maximize rewards, primarily revenue, while minimizing various costs. Additionally, we uncovered key variables that significantly influenced profitability, confirming that the company is generating profits and is not in financial distress. We were also able to predict whether a product would be shipped on time or face delays. However, we found that the dataset used in this study was not ideal and lacked critical information needed to enhance the model's effectiveness and enable its practical implementation in real-world scenarios. In conclusion, this model serves as a foundational benchmark for developing future models utilizing deep reinforcement learning. 
